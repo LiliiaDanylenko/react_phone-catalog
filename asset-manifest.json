@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "./static/css/main.ceb18029.chunk.css",
+    "main.js": "./static/js/main.08c899b7.chunk.js",
+    "main.js.map": "./static/js/main.08c899b7.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.330dba63.js",
+    "runtime-main.js.map": "./static/js/runtime-main.330dba63.js.map",
+    "static/js/2.84a2ae2d.chunk.js": "./static/js/2.84a2ae2d.chunk.js",
+    "static/js/2.84a2ae2d.chunk.js.map": "./static/js/2.84a2ae2d.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.ceb18029.chunk.css.map": "./static/css/main.ceb18029.chunk.css.map",
+    "static/js/2.84a2ae2d.chunk.js.LICENSE.txt": "./static/js/2.84a2ae2d.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "./static/media/plus.dea15724.svg",
+    "static/media/Search.scss": "./static/media/search.eb670dd9.svg",
+    "static/media/CardButtons.scss": "./static/media/favourites-hover.d554a185.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.330dba63.js",
+    "static/js/2.84a2ae2d.chunk.js",
+    "static/css/main.ceb18029.chunk.css",
+    "static/js/main.08c899b7.chunk.js"
+  ]
+}
