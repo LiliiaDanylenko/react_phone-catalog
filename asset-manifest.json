@@ -1,23 +1,38 @@
 {
   "files": {
-    "main.css": "./static/css/main.ceb18029.chunk.css",
-    "main.js": "./static/js/main.e7902b8d.chunk.js",
-    "main.js.map": "./static/js/main.e7902b8d.chunk.js.map",
+    "main.css": "./static/css/main.dce6d7e1.chunk.css",
+    "main.js": "./static/js/main.9f2a6305.chunk.js",
+    "main.js.map": "./static/js/main.9f2a6305.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.330dba63.js",
     "runtime-main.js.map": "./static/js/runtime-main.330dba63.js.map",
     "static/js/2.84a2ae2d.chunk.js": "./static/js/2.84a2ae2d.chunk.js",
     "static/js/2.84a2ae2d.chunk.js.map": "./static/js/2.84a2ae2d.chunk.js.map",
     "index.html": "./index.html",
-    "static/css/main.ceb18029.chunk.css.map": "./static/css/main.ceb18029.chunk.css.map",
+    "static/css/main.dce6d7e1.chunk.css.map": "./static/css/main.dce6d7e1.chunk.css.map",
     "static/js/2.84a2ae2d.chunk.js.LICENSE.txt": "./static/js/2.84a2ae2d.chunk.js.LICENSE.txt",
     "static/media/index.scss": "./static/media/plus.dea15724.svg",
+    "static/media/arrow-down.98c9dd6d.svg": "./static/media/arrow-down.98c9dd6d.svg",
+    "static/media/arrow-left-disabled.b49050e5.svg": "./static/media/arrow-left-disabled.b49050e5.svg",
+    "static/media/arrow-left.5c69c0ad.svg": "./static/media/arrow-left.5c69c0ad.svg",
+    "static/media/arrow-right-disabled.1254f6bc.svg": "./static/media/arrow-right-disabled.1254f6bc.svg",
+    "static/media/arrow-right.70f42d77.svg": "./static/media/arrow-right.70f42d77.svg",
+    "static/media/arrow-up.a61ad2d0.svg": "./static/media/arrow-up.a61ad2d0.svg",
+    "static/media/banner-accessories.bdd2e0fc.png": "./static/media/banner-accessories.bdd2e0fc.png",
+    "static/media/banner-phones.b4eeda8b.png": "./static/media/banner-phones.b4eeda8b.png",
+    "static/media/banner-tablets.a962057c.png": "./static/media/banner-tablets.a962057c.png",
+    "static/media/cart.1962e424.svg": "./static/media/cart.1962e424.svg",
+    "static/media/category-accessories.b914f412.png": "./static/media/category-accessories.b914f412.png",
+    "static/media/category-phones.8478b80a.png": "./static/media/category-phones.8478b80a.png",
+    "static/media/category-tablets.ed3dd9df.png": "./static/media/category-tablets.ed3dd9df.png",
     "static/media/Search.scss": "./static/media/search.eb670dd9.svg",
-    "static/media/CardButtons.scss": "./static/media/favourites-hover.d554a185.svg"
+    "static/media/CardButtons.scss": "./static/media/favourites-hover.d554a185.svg",
+    "static/media/home.d4c29e4f.svg": "./static/media/home.d4c29e4f.svg",
+    "static/media/logo.c9417692.svg": "./static/media/logo.c9417692.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.330dba63.js",
     "static/js/2.84a2ae2d.chunk.js",
-    "static/css/main.ceb18029.chunk.css",
-    "static/js/main.e7902b8d.chunk.js"
+    "static/css/main.dce6d7e1.chunk.css",
+    "static/js/main.9f2a6305.chunk.js"
   ]
 }
